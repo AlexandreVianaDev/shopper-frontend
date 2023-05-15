@@ -2,8 +2,6 @@
 
 Este é o FrontEnd do Teste Técnico para a Shopper.
 Se trata de uma ferramenta para atualização de preços de produtos utilizando um arquivo csv.
-No FrontEnd
-Além di
 
 # :hammer: Funcionalidades do projeto
 
