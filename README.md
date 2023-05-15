@@ -29,10 +29,10 @@ Se trata de uma ferramenta para atualização de preços de produtos utilizando 
 
 **Passos para rodar a aplicação:**
 
-- clonar este repositório;
-- abrir o terminal na pasta clonada no seu computador;
-- executar o comando de instalação de dependencias: npm install;
-- executar o comando para inicializar o React: npm run dev;
+- clonar este repositório
+- abrir o terminal na pasta clonada no seu computador
+- executar o comando de instalação de dependencias: npm install
+- executar o comando para inicializar o React: npm run dev
   Obs.: lembre-se de ligar o servidor.
 
 GitHub do BackEnd: https://github.com/AlexandreVianaDev/shopper-backend
